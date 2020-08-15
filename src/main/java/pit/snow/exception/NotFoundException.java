@@ -1,4 +1,4 @@
-package pit.snow.domain.exception;
+package pit.snow.exception;//package pit.snow.old_structure.domain.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
